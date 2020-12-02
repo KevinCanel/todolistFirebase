@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!---->
+    <string name="title_new_task">Nombre de la tarea</string>
+    <string name="description_new_task">Desrcipcion de la tarea</string>
+    <string name="add_new_task">Agregar tarea</string>
+    <string name="save_new_task">Guardar</string>
+
+    <string name="done_task">Tareas Realizadas</string>
+</resources>

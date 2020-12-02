@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368391027825",
+    "firebase_url": "https://tareas-f48ee.firebaseio.com",
+    "project_id": "tareas-f48ee",
+    "storage_bucket": "tareas-f48ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368391027825:android:8f8d4895ee36d5ec77afd0",
+        "android_client_info": {
+          "package_name": "com.kcanel.tareas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368391027825-mu1uipa7rcpq00augnqis53ol7ig6gng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNY8VUc3dXQqaMHPuNYuakKg3Wsmnxvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368391027825-mu1uipa7rcpq00augnqis53ol7ig6gng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
