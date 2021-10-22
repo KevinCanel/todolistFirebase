@@ -1,11 +1,7 @@
 package com.kcanel.tareas.ui;
 
 import android.content.Context;
-import android.net.Uri;
-
 import androidx.fragment.app.Fragment;
-
-import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class BaseFragment extends Fragment {
